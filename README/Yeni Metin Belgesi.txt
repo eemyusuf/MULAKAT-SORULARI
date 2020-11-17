@@ -1,0 +1,15 @@
+      Merhaba, 09.11.2020 tarihinde kariyer.net üzerinden elektrik elektronik mühendisliği iş ilanına başvurmuştum. İlan için belirlenen mülakat sorularını çözmeye başladım fakat teknik bir çok problem ile karşılaştım(Proteus,STM32CubeIDE,Keil,DEVC++). Bu sorunlar pc me yakın zaman önce format atmıştım ondan kaynaklı olduğunu düşündüğüm lisans ve işlemci sorunları oluduğunu düşünüyorum. Bu sorunlar ile karşılaşınca dosyayı mail olarak göndermeden önce açıklama yapma gereği hissettim. Aşşağıda mülakat sorularının çözümlerinde izlediğim adımlar anlatılmıştır.
+
+-> Algoritma sorusunu python dilinde yazdım. C dilinin syntax larına göre düzenledim. DEVC++ derleyicisinde bahsettiğim problemleri yaşayınca python da yazdım. Kullanıcıdan alınan input a göre dizi indisleri sıra ile çarpılarak karşılaştırmaları yapılıp, sonuçları çıkaran algoritma çalışır durumdadır.
+
+-> Soru-2 Usart,GPIO,RCC... gibi kütüphaneleri projeye dahil edip gpıo ayarlarından belirlenen bir portu AF  olarak tanımlayıp dizi halinde oluşturmayı düşündüğüm sorudaki liste ile karşılaştırma yapıp hata mesajı ya da geldiği gibi cevap veren algoritma yazmaya çalıştım. Keil de No target hatasını aldım. proje oluşuyor fakat derleme yapınca hata veriyor du. Dosyaların arasına eklemedim.
+
+-> PCB de rc522 yi pinler üzerinden kart a bağlantısının yapıldığını varsaydım. NRST pinine 10k direnç ve buton programda sorun olması halinde resetleme işlemi  yaptırmadım.STM e harici osilatör bağlamadım. Stm i programlanmış ve kart üzerine lehimlemeye gelicek şekilde düşündüm ve bu yüzden usb portu çıkışı tanımlamadım.
+
+
+ İlginiz için teşekkür ederim.Sonuçları sabırsızlıkla bekliyorum.
+
+
+
+Yusuf Kaan İNAN
+
